@@ -6,6 +6,7 @@ REM JAVA_HOME:%JAVA_8_HOME%
 REM https://stackoverflow.com/questions/47469310/switch-jdk-version-in-windows-10-cmd
 REM https://stackoverflow.com/questions/21606419/set-windows-environment-variables-with-a-batch-file
 REM https://stackoverflow.com/questions/7846560/how-concatenate-two-variables-in-batch-script
+REM https://www.youtube.com/watch?v=IdmNIOs3Xqo
 REM Needed for variable concatenation
 setlocal EnableDelayedExpansion
 
